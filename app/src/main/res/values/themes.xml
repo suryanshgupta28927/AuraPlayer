@@ -1,0 +1,7 @@
+<resources>
+    <style name="Theme.AuraPlayer" parent="android:Theme.Material.NoActionBar">
+        <item name="android:statusBarColor">@color/aura_bg</item>
+        <item name="android:navigationBarColor">@color/aura_bg</item>
+        <item name="android:windowBackground">@color/aura_bg</item>
+    </style>
+</resources>
